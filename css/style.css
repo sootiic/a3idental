@@ -11,6 +11,18 @@
     width: 300px;
 }
 
+.pdf_price-list{
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+.pdf-btn{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
 h1,
 h2,
 .font-weight-bold {
